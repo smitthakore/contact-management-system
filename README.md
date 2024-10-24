@@ -19,14 +19,17 @@ This project is a Contact Management System (CMS) that allows users to create, v
 7. Responsive Design
 
 ```sh
-# Terminal output: interactive bash session
+# Run backend
 
-hello exec-sh
-bash-3.2$ pwd
-/home
-bash-3.2$ exit 99
-exit
-Exit code:  99
+git clone https://github.com/your-username/contact-management-system.git
+cd contact-management-system/backend
+yarn run dev
+```
+```sh
+# Run frontend
+
+cd contact-management-system/frontend
+yarn start
 ```
 
 
