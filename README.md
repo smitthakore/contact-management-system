@@ -18,8 +18,15 @@ This project is a Contact Management System (CMS) that allows users to create, v
    -  Users can mark contacts as favorites and view them separately. A feature that allows users to display selected contacts with checkboxes on the home page.
 7. Responsive Design
 
-'''sh
-Hiii
-'''
+```sh
+# Terminal output: interactive bash session
+
+hello exec-sh
+bash-3.2$ pwd
+/home
+bash-3.2$ exit 99
+exit
+Exit code:  99
+```
 
 
