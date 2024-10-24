@@ -1,27 +1,28 @@
-Contact Management System (CMS)
-Overview
+# Contact Management System (CMS)
+
+## Overview
 This project is a Contact Management System (CMS) that allows users to create, view, edit, and delete contacts. It also includes several additional features such as exporting contacts, generating QR codes, and a user authentication system.
 
-Features
-User Authentication:
+## Features
+1. User Authentication:
 
 Users can register, login, and logout securely.
 Protected routes are available to manage contacts and other user-specific features.
-Contact Management:
+2. Contact Management:
 
 Create, view, edit, and delete contacts.
 Each contact can store a name, phone number, and email address.
-QR Code Generation:
+3. QR Code Generation:
 
 The system generates a unique QR code for each contact containing their details.
 This can be scanned to retrieve the contact's details quickly.
-Export Contacts:
+4. Import/Export Contacts:
 
 The system allows users to export their contacts to a CSV file.
-Search and Sort:
+5. Search and Sort:
 
 Users can search for specific contacts and sort contacts by name or email.
-Favorites:
+6. Favorites:
 
 Users can mark contacts as favorites and view them separately.
 Responsive Design:
