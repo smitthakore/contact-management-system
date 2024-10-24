@@ -4,6 +4,9 @@
 This project is a Contact Management System (CMS) that allows users to create, view, edit, and delete contacts. It also includes several additional features such as exporting contacts, generating QR codes, and a user authentication system.
 
 ## Features
+1. Item Zed
+   1. Nested Numeric # indented 3 spaces
+2. Item One
 1. User Authentication:
 
 Users can register, login, and logout securely.
