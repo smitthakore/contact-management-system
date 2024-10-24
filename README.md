@@ -1,6 +1,7 @@
 # Contact Management System (CMS)
 [Demo video here](https://drive.google.com/file/d/18EJu4JDmOvbqbGNjM8iACxLxW7yia2Mg/view?usp=sharing)
 ## Overview
+The web application follows strict MVC pattern.
 This project is a Contact Management System (CMS) that allows users to create, view, edit, and delete contacts. It also includes several additional features such as exporting contacts, generating QR codes, and a user authentication system.
 
 ## Features
